@@ -12,10 +12,10 @@
     "prepare": "node ./prepare.js"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-alpha.75",
+    "@docusaurus/core": "2.3.1",
     "@docusaurus/module-type-aliases": "2.0.0-alpha.75",
-    "@docusaurus/plugin-pwa": "2.0.0-alpha.75",
-    "@docusaurus/preset-classic": "2.0.0-alpha.75",
+    "@docusaurus/plugin-pwa": "2.3.1",
+    "@docusaurus/preset-classic": "2.3.1",
     "@questdb/sql-grammar": "^1.0.9",
     "@radix-ui/react-dialog": "^0.1.7",
     "@tsconfig/docusaurus": "1.0.2",
@@ -38,7 +38,7 @@
     "react-markdown": "^8.0.3",
     "react-remark": "^2.1.0",
     "react-transition-group": "4.4.1",
-    "styled-components": "^5.3.5",
+    "styled-components": "^5.3.7",
     "styled-icons": "^10.46.0",
     "throttle-debounce": "3.0.1",
     "typeit-react": "^2.6.0",
